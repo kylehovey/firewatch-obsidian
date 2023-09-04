@@ -1,7 +1,9 @@
-
 ---
-location: [33.40083333333333, -117.19027777777778]
-tag: firewatch
+location: [40.31527777777777, -123.13722222222223]
+tags: [destroyed]
 ---
 
-[Red Mountain](http://nhlr.org/lookouts/us/ca/red-mountain-lookout-san-diego-county/) sits at 1617', is located in [[San Diego County]] and was constructed in 1975. It is run and operated by BLM. It can be found on the Temecula USGS topo map.
+# Overview
+
+[Red Mountain (LO site)](http://www.peakbagging.com/CALookoutPhotos/RedMtn.html) sits at 5643', is located in [[Trinity County]] and was constructed in 1981. It is located in the Shasta-Trinity national forest. It can be found on the Pony Buck Peak USGS topo map.
+

@@ -1,7 +1,9 @@
-
 ---
-location: [41.79527777777778, -122.15583333333333]
-tag: firewatch
+location: [39.931666666666665, -122.785]
+tags: [destroyed]
 ---
 
-[Ball Mountain](http://www.peakbagging.com/CALookoutPhotos/BallMtn.html) sits at 7780', is located in [[Siskiyou County]] and was constructed in 1986. It is located in the Klamath national forest. It can be found on the Panther Rock USGS topo map.
+# Overview
+
+Ball Mountain (LO site) sits at 6562', is located in [[Tehama County]] and was constructed in 1973. It is located in the Mendocino national forest. It can be found on the Ball Mountain USGS topo map.
+

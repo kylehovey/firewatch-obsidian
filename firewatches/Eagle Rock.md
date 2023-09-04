@@ -1,7 +1,9 @@
-
 ---
-location: [37.1475, -122.19527777777778]
-tag: firewatch
+location: [40.74944444444444, -123.32472222222222]
+tags: [destroyed]
 ---
 
-[Eagle Rock](http://www.peakbagging.com/CALookoutPhotos/EagleRock.html) sits at 2491', is located in [[Santa Cruz County]] and was constructed in 1991. It is run and operated by Big Basin Redwood State Park. It can be found on the Big Basin USGS topo map.
+# Overview
+
+Eagle Rock (LO site) sits at 4738', is located in [[Trinity County]] and was constructed in 1982. It is located in the Shasta-Trinity national forest. It can be found on the Big Bar USGS topo map.
+

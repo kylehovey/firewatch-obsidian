@@ -1,7 +1,9 @@
-
 ---
-location: [40.26138888888889, -120.55805555555555]
-tag: firewatch
+location: [37.99916666666667, -120.06888888888888]
+tags: [destroyed]
 ---
 
-[Thompson Peak](http://www.peakbagging.com/CALookoutPhotos/ThompsonPk.html) sits at 7793', is located in [[Plumas County]] and was constructed in 1972. It is located in the Plumas national forest. It can be found on the Janesville USGS topo map.
+# Overview
+
+[Thompson Peak (LO site)](http://www.peakbagging.com/CALookoutPhotos/Thompson.html) sits at 5294', is located in [[Tuolumne County]] and was constructed in 1979. It is located in the Stanislaus national forest. It can be found on the Duckwall Mtn USGS topo map.
+

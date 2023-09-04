@@ -1,7 +1,9 @@
-
 ---
-location: [40.91444444444444, -122.44472222222223]
-tag: firewatch
+location: [37.89805555555556, -120.14583333333334]
+tags: [destroyed]
 ---
 
-[Sugarloaf](http://www.peakbagging.com/CALookoutPhotos/Sugarloaf.html) sits at 3945', is located in [[Shasta County]] and was constructed in 1990. It is located in the Shasta-Trinity national forest. It can be found on the Lamoine USGS topo map.
+# Overview
+
+Sugarloaf (LO site) sits at 3881', is located in [[Tuolumne County]] and was constructed in 1979. It is located in the Stanislaus national forest. It can be found on the Tuolumne USGS topo map.
+

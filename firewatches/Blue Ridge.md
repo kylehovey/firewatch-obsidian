@@ -1,7 +1,12 @@
-
 ---
-location: [41.2725, -123.18805555555556]
-tag: firewatch
+location: [36.286944444444444, -118.83972222222222]
+tags: [destroyed]
 ---
 
-[Blue Ridge](http://www.peakbagging.com/CALookoutPhotos/BluRidge.html) sits at 5960', is located in [[Siskiyou County]] and was constructed in 1979. It is located in the Klamath national forest. It can be found on the Sawyers Bar USGS topo map.
+# Overview
+
+[Blue Ridge (LO site)](http://www.peakbagging.com/CALookoutPhotos/BlueRidge.html) sits at 5720', is located in [[Tulare County]] and was constructed in 1994. It is run and operated by Cal Fire. It can be found on the Dennison Peak USGS topo map.
+
+# Condition
+
+Dilapidated and needs work, but standing.

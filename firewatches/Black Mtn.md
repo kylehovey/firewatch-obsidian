@@ -1,7 +1,9 @@
-
 ---
-location: [40.11472222222223, -120.32138888888889]
-tag: firewatch-rental
+location: [35.3925, -120.35194444444444]
+tags: [destroyed]
 ---
 
-Black Mtn sits at 7077', is located in [[Plumas County]] and was constructed in 1977. It is located in the Plumas national forest. It can be found on the Ferris Creek USGS topo map. It is [a rental](http://www.recreation.gov/camping/Black_Mountain_Lookout/r/campgroundDetails.do?contractCode=NRSO&parkId=72306&topTabIndex=Search).
+# Overview
+
+Black Mtn (LO site) sits at 3622', is located in [[San Luis Obispo County]] and was constructed in 1966. It is located in the Los Padres national forest. It can be found on the Camatta Ranch USGS topo map.
+

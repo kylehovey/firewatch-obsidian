@@ -22,7 +22,16 @@
       }
     },
     {
-      "ruleName": "#firewatch",
+      "ruleName": "#firewatch-rental",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "markerColor": "blue",
+        "icon": "fa-house"
+      }
+    },
+    {
+      "ruleName": "#good-condition",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
@@ -31,12 +40,30 @@
       }
     },
     {
-      "ruleName": "#firewatch-rental",
+      "ruleName": "#okay-condition",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
-        "markerColor": "blue",
-        "icon": "fa-house"
+        "icon": "fa-tower-observation",
+        "markerColor": "orange"
+      }
+    },
+    {
+      "ruleName": "#poor-condition",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-tower-observation",
+        "markerColor": "red"
+      }
+    },
+    {
+      "ruleName": "#unknown-condition",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-tower-observation",
+        "markerColor": "purple"
       }
     }
   ],
