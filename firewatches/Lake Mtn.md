@@ -1,0 +1,7 @@
+
+---
+location: [41.74861111111111, -123.13361111111112]
+tag: firewatch
+---
+
+[Lake Mtn](http://www.peakbagging.com/CALookoutPhotos/LakeMtn.html) sits at 6877', is located in [[Siskiyou County]] and was constructed in 1981. It is located in the Klamath national forest. It can be found on the Grider Valley USGS topo map.
