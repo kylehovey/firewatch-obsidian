@@ -1,6 +1,6 @@
 ---
 location: [41.12833333333333, -122.27944444444444]
-tags: [unknown-condition]
+tags: [unknown-condition, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [unknown-condition]
 
 # Condition
 
-A rental Lookout.
+A [rental lookout](http://www.recreation.gov/camping/Girard_Ridge_Lookout/r/campgroundDetails.do?contractCode=NRSO&parkId=75268&topTabIndex=Search).

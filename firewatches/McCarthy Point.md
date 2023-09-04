@@ -1,6 +1,6 @@
 ---
 location: [40.18555555555555, -121.67694444444444]
-tags: [unknown-condition]
+tags: [unknown-condition, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [unknown-condition]
 
 # Condition
 
-A rental Lookout.
+A [rental lookout](http://www.recreation.gov/camping/Mccarthy_Point_Lookout/r/campgroundDetails.do?contractCode=NRSO&parkId=75345&topTabIndex=Search).

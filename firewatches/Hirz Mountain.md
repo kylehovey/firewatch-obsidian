@@ -1,6 +1,6 @@
 ---
 location: [40.89694444444444, -122.24583333333334]
-tags: [unknown-condition]
+tags: [unknown-condition, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [unknown-condition]
 
 # Condition
 
-A rental Lookout.
+A [rental lookout](http://www.recreation.gov/camping/Hirz_Mountain_Lookout/r/campgroundDetails.do?contractCode=NRSO&parkId=75234&topTabIndex=Search).

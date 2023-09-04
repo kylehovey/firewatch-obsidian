@@ -1,6 +1,6 @@
 ---
 location: [41.578611111111115, -121.65833333333335]
-tags: [unknown-condition]
+tags: [unknown-condition, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [unknown-condition]
 
 # Condition
 
-A rental Lookout.
+A [rental lookout](http://www.recreation.gov/camping/Little_Mt_Hoffman_Lookout/r/campgroundDetails.do?contractCode=NRSO&parkId=75303&topTabIndex=Search).

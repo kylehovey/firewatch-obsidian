@@ -22,15 +22,6 @@
       }
     },
     {
-      "ruleName": "#firewatch-rental",
-      "preset": false,
-      "iconDetails": {
-        "prefix": "fas",
-        "markerColor": "blue",
-        "icon": "fa-house"
-      }
-    },
-    {
       "ruleName": "#good-condition",
       "preset": false,
       "iconDetails": {
@@ -74,6 +65,15 @@
         "icon": "fa-x",
         "markerColor": "red",
         "shape": "square"
+      }
+    },
+    {
+      "ruleName": "#firewatch-rental",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "markerColor": "blue",
+        "icon": "fa-house"
       }
     }
   ],

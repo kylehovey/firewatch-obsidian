@@ -1,6 +1,6 @@
 ---
 location: [41.80916666666666, -123.74111111111111]
-tags: [unknown-condition]
+tags: [unknown-condition, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [unknown-condition]
 
 # Condition
 
-A rental Lookout.
+A [rental lookout](http://www.recreation.gov/camping/Bear_Basin_Lookout_And_Cabin/r/campgroundDetails.do?contractCode=NRSO&parkId=75116&topTabIndex=Search).

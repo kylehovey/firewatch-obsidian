@@ -14,10 +14,10 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 18,
+                "mapZoom": 1,
                 "mapCenter": {
-                  "lat": 38.46217880399785,
-                  "lng": -120.41788995964454
+                  "lat": 40.44694705960048,
+                  "lng": -180.70312500000003
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "245cdf841990eb1d",
@@ -152,6 +153,16 @@
   },
   "active": "a9931874ab40c287",
   "lastOpenFiles": [
+    "Pine Mountain.md",
+    "Hirz Mountain.md",
+    "Little Mt Hoffman.md",
+    "McCarthy Point.md",
+    "Oak Flat.md",
+    "Bear Basin Butte.md",
+    "Calpine.md",
+    "Girard Ridge.md",
+    "Black Mountain.md",
+    "Black Mtn.md",
     "Pike County Peak.md",
     "Oregon Peak.md",
     "Triunfo.md",
@@ -167,16 +178,6 @@
     "Cobblestone Mountain.md",
     "Woods Ridge.md",
     "Rushing Mtn, Big Hill.md",
-    "Pinecrest Peak.md",
-    "North Mountain.md",
-    "McCormick.md",
-    "Liberty Hill.md",
-    "Jones Point.md",
-    "Forebay.md",
-    "Elizabeth Peak.md",
-    "Duckwall Mtn.md",
-    "Crane Flat.md",
-    "Crandall Peak.md",
-    "American Camp.md"
+    "Pinecrest Peak.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 location: [33.823888888888895, -116.7575]
-tags: [good-condition, staffed, volunteer-staffed]
+tags: [good-condition, staffed, volunteer-staffed, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [good-condition, staffed, volunteer-staffed]
 
 # Condition
 
-Staffed by volunteers.
+Staffed by volunteers, it is also a [rental](https://www.recreation.gov/camping/campgrounds/233296).

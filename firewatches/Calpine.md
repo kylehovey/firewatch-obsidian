@@ -1,6 +1,6 @@
 ---
 location: [39.678888888888885, -120.46333333333334]
-tags: [unknown-condition]
+tags: [unknown-condition, firewatch-rental]
 ---
 
 # Overview
@@ -9,4 +9,4 @@ tags: [unknown-condition]
 
 # Condition
 
-A rental Lookout.
+A [rental lookout](http://www.fs.usda.gov/recarea/tahoe/recreation/camping-cabins/recarea/?recid=80158&actid=101).
