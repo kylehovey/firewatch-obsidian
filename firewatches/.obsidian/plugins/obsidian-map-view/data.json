@@ -65,6 +65,16 @@
         "icon": "fa-tower-observation",
         "markerColor": "purple"
       }
+    },
+    {
+      "ruleName": "#destroyed",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-x",
+        "markerColor": "red",
+        "shape": "square"
+      }
     }
   ],
   "zoomOnGoFromNote": 15,
