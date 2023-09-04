@@ -4,7 +4,7 @@ I found this [wonderful database](http://www.peakbagging.com/Peak%20Lists/CA_Loo
 
 |Map View|Includes Rentable Firewatches|
 |-|-|
-|![image](https://github.com/kylehovey/firewatch-obsidian/assets/7339800/7c966e95-d5c1-4a61-b835-8ba570ce21d1)|![image](https://github.com/kylehovey/firewatch-obsidian/assets/7339800/b1b52736-0d1b-48c7-8908-8ab4baebf6fd)|
+|<img width="947" alt="image" src="https://github.com/kylehovey/firewatch-obsidian/assets/7339800/911bb6d8-eb42-4371-ba20-54caf9ef13d1">|![image](https://github.com/kylehovey/firewatch-obsidian/assets/7339800/b1b52736-0d1b-48c7-8908-8ab4baebf6fd)|
 
 
 ## Caveats
